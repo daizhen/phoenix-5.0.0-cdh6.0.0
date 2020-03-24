@@ -1,3 +1,6 @@
+
+This project is copied from apache phoenix 5.0.0 and specified for cdh6.0.0. I changed a bit of code, as well as maven items to make it work well on both client query and spark job.
+
 <!--
 Licensed to the Apache Software Foundation (ASF) under one or more
 contributor license agreements.  See the NOTICE file distributed with
@@ -20,3 +23,4 @@ limitations under the License.
 <b>[Apache Phoenix](http://phoenix.apache.org/)</b> is a SQL skin over HBase delivered as a client-embedded JDBC driver targeting low latency queries over HBase data. Visit the Apache Phoenix website <b>[here](http://phoenix.apache.org/)</b>.
 
 Copyright ©2014 [Apache Software Foundation](http://www.apache.org/). All Rights Reserved. 
+
