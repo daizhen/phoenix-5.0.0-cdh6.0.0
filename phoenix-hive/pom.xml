@@ -183,7 +183,7 @@
         <groupId>org.eclipse.jetty</groupId>
         <artifactId>jetty-server</artifactId>
         <scope>test</scope>
-        <version>9.3.8.v20160314</version>
+        <version>9.4.41.v20210516</version>
       </dependency>
     <dependency>
       <groupId>org.mockito</groupId>
